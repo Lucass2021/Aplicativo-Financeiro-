@@ -96,13 +96,14 @@ const DOM = {
     },
 
     updateBalance() {
-        document.getElementById('incomeDisplay')
+        document
+            .getElementById('incomeDisplay')
             .innerHTML = Utils.formatCurrency(Transaction.incomes())
-
-        document.getElementById('expenseDisplay')
+        document
+            .getElementById('expenseDisplay')
             .innerHTML = Utils.formatCurrency(Transaction.expenses())
-
-        document.getElementById('totalDisplay')
+        document
+            .getElementById('totalDisplay')
             .innerHTML = Utils.formatCurrency(Transaction.total())
     },
 
@@ -114,9 +115,8 @@ const DOM = {
 
 const Utils = {
     formatAmount(value) {
-        value = Number(value.replace(/\,\./g, "")) * 100
-
-        return value
+        value = value * 100
+        return Math.round(value)
     },
 
 
@@ -138,9 +138,11 @@ const Utils = {
             style: "currency",
             currency: "BRL"
         })
+
         return signal + value
     }
 }
+
 
 const Form = {
     description: document.querySelector('input#description'),
@@ -214,6 +216,5 @@ const App = {
 }
 
 App.init()
-
 
 
