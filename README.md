@@ -60,4 +60,4 @@ Este projeto atualmente está finalizado.
 
 - Linkedin - [@Lucas Dias da Silva](https://www.linkedin.com/in/lucas-dias-da-silva-118954199/)
 
-
+- Email - [Lucas Dias](mailto:lucas.allx@hotmail.com")
