@@ -13,7 +13,7 @@
 
 ## 📝 Description
 
->💻 Dev.finances is a budget application, where you can register and delete transactions and see the balance of incoming and expenses, the project was created Rocketseat in order to explore notions of HTML, CSS and JavaScript. 💰
+>💻 Dev.finances is a budget application, where you can register and delete transactions and see the balance of incoming and expenses, the project was created Rocketseat in order to practice HTML, CSS and JavaScript. 💰
 
 
 
