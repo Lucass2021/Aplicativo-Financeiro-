@@ -2,7 +2,7 @@
     <img src="logo05.png"/>
 </h1>
 
-# Sumário
+# Summary
 
 - [Description](#📝-Description)
 - [Project](#💻-Project)
