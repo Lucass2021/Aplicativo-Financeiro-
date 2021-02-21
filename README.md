@@ -4,28 +4,28 @@
 
 # Sumário
 
-- [Descrição](#📝-Descrição)
-- [Projeto](#💻-Projeto)
-- [Tecnologias utilizadas](#🚀-Tecnologias-utilizadas)
-- [Status do Projeto](#🎯-Status-do-Projeto)
+- [Description](#📝-Description)
+- [Project](#💻-Project)
+- [Technologies](#🚀-Technologies)
+- [Project Stats](#🎯-Project-Stats)
 
 ---
 
-## 📝 Descrição
+## 📝 Description
 
->💻 O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída, o projeto foi criado pela Maratona Discover da Rocketseat com o objetivo de explorar noções de HTML, CSS e JavaScript. 💰
+>💻 Dev.finances is a budget application, where you can register and delete transactions and see the balance of incoming and expenses, the project was created Rocketseat in order to explore notions of HTML, CSS and JavaScript. 💰
 
 
 
 ---
 
-## 💻 Projeto
+## 💻 Project
 
-* <b>Entradas e saídas</b>: É possível monitorar o quanto foi gasto e o quanto foi recebido, com o resultado total de dinheiro disponível.
+* <b>Incoming and Expensess</b>: It is possible to monitor how much has been spent and how much has been received, with the total result of available money.
 
-* <b>Nova transação</b>: É possível inserir novos valores, sejam gastos ou rendimentos.
+* <b>New Transaction</b>: It is possible to insert new values, either expenses or income.
 
-* <b>Detalhe de transações</b>: O usuário possui acesso ao histórico de transações na página, e também é possível excluir qualquer transação, sendo atualizado a quantia na entrada, saída e total no topo da tela.
+* <b>Transactions Details</b>: The user has access to the transaction history on the page, and it is also possible to delete any transaction, being updated the amount at the entry, exit and total at the top of the screen.
 
 <h1 align="center">
     <img src="read00.PNG"/>
@@ -35,7 +35,7 @@
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Technologies
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 * VS Code;
 * HTML;
@@ -46,21 +46,21 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-## 🎯 Status do Projeto
+## 🎯 Project Stats
 
 Este projeto atualmente está finalizado.
 
 
 ---
 
-## :heavy_check_mark: A ser adicionado
+## :heavy_check_mark: To do list
 
 - Dark Mode
 - Botão de apagar todas as transações
 
 ---
 
-## :handshake: Seja um contribuidor
+## :handshake: Become a Contributor
 
 Tem alguma ideia que poderia alavancar ainda mais o projeto, e deseja implementar? É simples!
 
@@ -71,9 +71,9 @@ Tem alguma ideia que poderia alavancar ainda mais o projeto, e deseja implementa
 
 ---
 
-## Autor
+## Author
 
-- Projetos - [Lucass2021](https://github.com/Lucass2021)
+- Projects - [Lucass2021](https://github.com/Lucass2021)
 
 - Linkedin - [@Lucas Dias da Silva](https://www.linkedin.com/in/lucas-dias-da-silva-118954199/)
 
