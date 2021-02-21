@@ -36,7 +36,7 @@
 ---
 
 ## 🚀 Technologies
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 * VS Code;
 * HTML;
 * CSS;
@@ -48,7 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎯 Project Stats
 
-Este projeto atualmente está finalizado.
+This project is currently finished.
 
 
 ---
@@ -56,18 +56,17 @@ Este projeto atualmente está finalizado.
 ## :heavy_check_mark: To do list
 
 - Dark Mode
-- Botão de apagar todas as transações
 
 ---
 
 ## :handshake: Become a Contributor
 
-Tem alguma ideia que poderia alavancar ainda mais o projeto, e deseja implementar? É simples!
+Do you have any ideas that you want to implement it? It's simple!
 
-1. Faça um fork do projeto
-2. Modifique o que achar necessário
-3. Faça o commit das mudanças
-4. Crie um Pull Request
+1. Fork the project
+2. Modify what you think is necessary
+3. Commit the changes
+4. Create a Pull Request
 
 ---
 
